@@ -16,7 +16,6 @@ body{
     );
     gap: 7px;
 }
-
 .imagen-proyecto{
     display: flex;
     width: 90%;
